@@ -37,7 +37,7 @@ I'm a MERN stack developer who is passionate about making error-free websites wi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizvimahbub)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizvimahbub&show_icons=true&count_private=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rizvimahbub)  
 
