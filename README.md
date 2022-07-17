@@ -8,11 +8,6 @@ I'm a MERN stack developer who is passionate about making error-free websites wi
 
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizvimahbub" alt="rizvimahbub" /></a> </p>
-
-
-
 - 🌱 I’m currently learning **Node, mongodb**
 
 - 👯 I’m looking to collaborate on **github**
