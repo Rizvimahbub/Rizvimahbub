@@ -1,6 +1,5 @@
 ![Web Developer](https://i.postimg.cc/7LgW6F93/from-the-fitzgeralds-3.png)
 
-
 # Hi there 👋, I'm Mahbubul Alam
 #### Web Developer
 
@@ -18,3 +17,10 @@ Skills: MongoDB /  Express / Node / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Rizvimahbub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahbubul-alam-717350241//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mahbubulalam.rizvi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@mahbubulrizvi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Mahbubu68600795)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/19068769/rizvi-alam)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Rizvimahbub)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Rizvimahbub&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Rizvimahbub)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/Rizvimahbub)  
