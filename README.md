@@ -7,7 +7,7 @@
 I'm a MERN stack developer who is passionate about making error-free websites with 100% client saticfaction. I have passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizvimahbub&label=Profile%20views&color=0e75b6&style=flat" alt="rizvimahbub" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizvimahbub" alt="rizvimahbub" /></a> </p>
 
@@ -21,7 +21,7 @@ I'm a MERN stack developer who is passionate about making error-free websites wi
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **rizvialam007@gmail.com**
+- 📫 How to reach me : **rizvialam007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
