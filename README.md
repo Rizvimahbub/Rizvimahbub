@@ -11,7 +11,7 @@ I'm a MERN stack developer who is passionate about making error-free websites wi
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizvimahbub" alt="rizvimahbub" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@mahbubu68600795" target="blank"><img src="https://img.shields.io/twitter/follow/@mahbubu68600795?logo=twitter&style=for-the-badge" alt="@mahbubu68600795" /></a> </p>
+
 
 - 🌱 I’m currently learning **Node, mongodb**
 
