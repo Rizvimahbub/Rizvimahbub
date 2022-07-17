@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizvimahbub" alt="rizvimahbub" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mahbubul alam" target="blank"><img src="https://img.shields.io/twitter/follow/mahbubul alam?logo=twitter&style=for-the-badge" alt="mahbubul alam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mahbubulrizvi" target="blank"><img src="https://img.shields.io/twitter/follow/@mahbubulrizvi?logo=twitter&style=for-the-badge" alt="@mahbubulrizvi" /></a> </p>
 
 - 🌱 I’m currently learning **Node, mongodb**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahbubul alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahbubul alam" height="30" width="40" /></a>
+<a href="https://twitter.com/@mahbubulrizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mahbubulrizvi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahbubul-alam-717350241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahbubul-alam-717350241/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rizvi alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rizvi alam" height="30" width="40" /></a>
 <a href="https://fb.com/mahbubulalam.rizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahbubulalam.rizvi" height="30" width="40" /></a>
