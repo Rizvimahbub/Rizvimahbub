@@ -19,7 +19,7 @@ I'm a MERN stack developer who is passionate about making error-free websites wi
 - 📫 How to reach me : **rizvialam007@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">☕ Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/@mahbubu68600795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mahbubu68600795" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahbubul-alam-717350241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahbubul-alam-717350241/" height="30" width="40" /></a>
