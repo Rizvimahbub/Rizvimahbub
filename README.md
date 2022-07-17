@@ -18,6 +18,9 @@ I'm a MERN stack developer who is passionate about making error-free websites wi
 
 - 📫 How to reach me : **rizvialam007@gmail.com**
 
+
+<h2>🏆 Trophies:</h2>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rizvimahbub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
