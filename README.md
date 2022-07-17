@@ -1,4 +1,4 @@
-![Web Developer](https://i.postimg.cc/7LgW6F93/from-the-fitzgeralds-3.png)
+
 
 # Hi there 👋, I'm Mahbubul Alam
 #### MERN Stack Developer
